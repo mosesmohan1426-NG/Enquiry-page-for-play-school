@@ -31,3 +31,17 @@ designed to give parents a warm first impression and easy access to admissions i
 3. Deploy on Netlify or open `index.html` directly in a browser
 
 ## Project Structure
+NaniLT/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── google-apps-script.js   # Apps Script backend code
+└── images/
+## 🌐 Live Demo
+
+[View Live →](https://littleroses.netlify.app/)
+
+---
+Built with by Seeram Moses Mohan
